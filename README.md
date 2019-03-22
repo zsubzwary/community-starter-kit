@@ -1,10 +1,12 @@
 # welcome bot: A Probot App
 
-DESCRIPTION PLACEHOLDER
+1. Let you move around
+2. Let you build
 
 ## What it does
 
-FEATURES PLACEHOLDER
+1. Sometings no one has
+2. Awesome
 
 ## Getting started
 
